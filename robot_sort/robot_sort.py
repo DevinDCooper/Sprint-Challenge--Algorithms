@@ -123,7 +123,7 @@ class SortingRobot:
                         self.swap_item()
                         self.move_right()
 
-
+ 
 
 
 if __name__ == "__main__":
